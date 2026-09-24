@@ -1,0 +1,6 @@
+{
+  "name": "Smart Work Plan TV",
+  "description": "ระบบแสดงผลแผนงานและการดำเนินงานสำหรับจอ Smart TV โทนสีขาว-ฟ้า สะอาดตา ตัวอักษรใหญ่ชัดเจน ควบคุมง่ายด้วยรีโมทคอนโทรล",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
